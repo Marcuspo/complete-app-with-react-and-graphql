@@ -7,11 +7,6 @@ const database = require("./db/db");
 
 const app = express();
 
-mongoose.connect("database");
-mongoose.connection.once("open", () => {
-  console.log("Conectado a databasi");
-});
-
 app.use(
   "/graphql",
   graphqlHTTP({
