@@ -68,7 +68,7 @@ class AddBook extends Component {
           />
         </div>
 
-        <div className="fiel">
+        <div className="field">
           <label>Autor: </label>
           <select
             onChange={e => {

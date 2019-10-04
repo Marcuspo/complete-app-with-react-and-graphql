@@ -1,13 +1,46 @@
-## **Criação de um pequeno app com React e Graphql para aprendizagem.**
+<h1 align="center">Welcome to React+GraphQl App 👋👋👋👋👋👋👋👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/marcuspo1" target="_blank">
+    <img alt="Twitter: marcuspo1" src="https://img.shields.io/twitter/follow/marcuspo1.svg?style=social" />
+  </a>
+</p>
 
-_Usando também mlab para banco de dados_
+> Simples app para apredizagem, utilizando React+Graphql
 
-**_Para testar:_**
+## Demo
 
-1 - Faça o clone do projeto.
+<img src="./img/logo.jpeg">
 
-2 - Rode o comando **npm install**
+## Install
 
-3 - Crie o seu arquivo de **db** no caminho: server/db/db.js
+```sh
+yarn install
+```
 
-_Com as informações do mongoose_
+## Usage
+
+```sh
+yarn start
+```
+
+## Run tests
+
+```sh
+npm run test
+```
+
+## Author
+
+👤 **Marcus Pontes**
+
+- Twitter: [@marcuspo1](https://twitter.com/marcuspo1)
+- Github: [@marcuspo1](https://github.com/marcuspo1)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+<a href="https://www.patreon.com/marcuspo1">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
