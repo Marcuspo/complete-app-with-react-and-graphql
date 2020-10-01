@@ -32,7 +32,7 @@ npm run test
 
 ## Author
 
-👤 **Marcus Pontes**
+👤 **Marcus Pontes de Oliveira**
 
 - Twitter: [@marcuspo1](https://twitter.com/marcuspo1)
 - Github: [@marcuspo1](https://github.com/marcuspo1)
